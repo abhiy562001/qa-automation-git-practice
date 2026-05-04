@@ -11,4 +11,8 @@ public class DriverFactory {
         System.out.println("Maximaize browser with feature/login-test branch");
         return driver;
     }
+
+    public void loginTest() {
+        System.out.println("Login Test - Changed by Branch develop");
+    }
 }
