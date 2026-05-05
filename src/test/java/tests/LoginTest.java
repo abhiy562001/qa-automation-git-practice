@@ -15,7 +15,11 @@ import utils.DriverFactory;
         }
 
         public void loginTest() {
-            System.out.println("Login Test - Updated by feature branch");
+            System.out.println("Login Test - develop Code");
+        }
+
+        public void loginTest2() {
+            System.out.println("Login Test2 - Base Code");
         }
 
         public void loginTest2() {
