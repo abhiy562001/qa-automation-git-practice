@@ -8,10 +8,7 @@ public class DriverFactory {
     public static WebDriver getDriver() {
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
-        System.out.println("Maximaize browser with feature/login-test branch");
+        System.out.println("Maximaize browser with develop branch");
         return driver;
-    }
-    public void loginTest() {
-        System.out.println("Login Test - Changed by Branch develop");
     }
 }
