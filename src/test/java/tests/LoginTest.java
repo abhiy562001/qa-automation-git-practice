@@ -13,5 +13,9 @@ import utils.DriverFactory;
             System.out.println("Login Test Executed");
             driver.quit();
         }
+
+        public void loginTest() {
+            System.out.println("Login Test - develop Code");
+        }
     }
 
