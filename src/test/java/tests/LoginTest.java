@@ -19,11 +19,11 @@ import utils.DriverFactory;
         }
 
         public void loginTest2() {
-            System.out.println("Login Test2 - Base Code");
+            System.out.println("Login Test2 - feature/login Code");
         }
 
-        public void loginTest2() {
-            System.out.println("Login Test2 - feature/login Code");
+        public void loginTest3() {
+            System.out.println("Login Test3 - feature Code");
         }
     }
 
