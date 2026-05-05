@@ -21,5 +21,9 @@ import utils.DriverFactory;
         public void loginTest2() {
             System.out.println("Login Test2 - Base Code");
         }
+
+        public void loginTest3() {
+            System.out.println("Login Test3 - Base Code");
+        }
     }
 
