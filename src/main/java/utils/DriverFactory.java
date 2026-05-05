@@ -15,4 +15,8 @@ public class DriverFactory {
     public void loginTest() {
         System.out.println("Login Test - Changed by Branch feature/login");
     }
+
+    public void loginTest2() {
+        System.out.println("Login Test2 - feature/login Code");
+    }
 }
