@@ -17,5 +17,9 @@ import utils.DriverFactory;
         public void loginTest() {
             System.out.println("Login Test - develop Code");
         }
+
+        public void loginTest2() {
+            System.out.println("Login Test2 - Develop Code");
+        }
     }
 
